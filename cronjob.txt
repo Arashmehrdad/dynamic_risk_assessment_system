@@ -1,0 +1,1 @@
+*/10 * * * * cd /home/workspace && /root/miniconda3/envs/mldevops-c4/bin/python fullprocess.py
